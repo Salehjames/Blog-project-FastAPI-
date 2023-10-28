@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-passlib
-bcrypt 
-python-jose
-python-multipart
-uvicorn==0.15.0
-gunicorn==20.1.0
